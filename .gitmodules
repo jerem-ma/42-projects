@@ -4,6 +4,7 @@
 [submodule "libft"]
 	path = libft
 	url = git@github.com:jerem-ma/libft.git
+	branch = master
 [submodule "ft_printf"]
 	path = ft_printf
 	url = git@github.com:jmaia-42-projects/42-ft_printf.git
