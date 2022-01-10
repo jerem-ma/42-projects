@@ -1,9 +1,9 @@
 [submodule "get_next_line"]
 	path = get_next_line
-	url = git@github.com:jerem-ma/get_next_line.git
+	url = git@github.com:jmaia-42-projects/get_next_line.git
 [submodule "libft"]
 	path = libft
-	url = git@github.com:jerem-ma/libft.git
+	url = git@github.com:jmaia-42-projects/42-libft.git
 	branch = master
 [submodule "ft_printf"]
 	path = ft_printf
