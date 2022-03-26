@@ -13,7 +13,9 @@
 	url = git@github.com:jmaia-42-projects/42-fract-ol.git
 [submodule "minitalk"]
 	path = minitalk
-	url = https://github.com/jmaia-42-projects/minitalk
+	url = git@github.com:jmaia-42-projects/minitalk.git
 [submodule "push_swap"]
 	path = push_swap
 	url = https://github.com/jmaia-42-projects/push_swap
+[submodule "pushswap"]
+	url = git@github.com:jmaia-42-projects/push_swap.git
