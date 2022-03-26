@@ -1,6 +1,7 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = git@github.com:jmaia-42-projects/get_next_line.git
+	branch = master
 [submodule "libft"]
 	path = libft
 	url = git@github.com:jmaia-42-projects/42-libft.git
@@ -8,14 +9,18 @@
 [submodule "ft_printf"]
 	path = ft_printf
 	url = git@github.com:jmaia-42-projects/42-ft_printf.git
+	branch = master
 [submodule "fract-ol"]
 	path = fract-ol
 	url = git@github.com:jmaia-42-projects/42-fract-ol.git
+	branch = master
 [submodule "minitalk"]
 	path = minitalk
 	url = git@github.com:jmaia-42-projects/minitalk.git
+	branch = master
 [submodule "push_swap"]
 	path = push_swap
 	url = https://github.com/jmaia-42-projects/push_swap
+	branch = master
 [submodule "pushswap"]
 	url = git@github.com:jmaia-42-projects/push_swap.git
