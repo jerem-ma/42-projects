@@ -24,3 +24,6 @@
 	branch = master
 [submodule "pushswap"]
 	url = git@github.com:jmaia-42-projects/push_swap.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:jmaia-42-projects/minishell.git
