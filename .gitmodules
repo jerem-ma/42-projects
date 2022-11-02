@@ -27,3 +27,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = git@github.com:jmaia-42-projects/minishell.git
+[submodule "42-miniRT"]
+	path = 42-miniRT
+	url = git@github.com:jmaia-42-projects/42-miniRT.git
