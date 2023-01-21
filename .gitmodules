@@ -32,3 +32,12 @@
 	url = git@github.com:jmaia-42-projects/42-miniRT.git
 [submodule "42-miniRT/"]
 	url = git@github.com:jmaia-42-projects/miniRT.git
+[submodule "ft_irc"]
+	path = ft_irc
+	url = git@github.com:jmaia-42-projects/ft_irc.git
+[submodule "ft_containers"]
+	path = ft_containers
+	url = git@github.com:jmaia-42-projects/ft_containers.git
+[submodule "inception"]
+	path = inception
+	url = git@github.com:jmaia-42-projects/inception.git
