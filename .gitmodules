@@ -41,3 +41,6 @@
 [submodule "inception"]
 	path = inception
 	url = git@github.com:jmaia-42-projects/inception.git
+[submodule "ft_transcendance"]
+	path = ft_transcendance
+	url = git@github.com:jmaia-42-projects/ft_transcendance.git
