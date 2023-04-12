@@ -44,3 +44,6 @@
 [submodule "ft_transcendance"]
 	path = ft_transcendance
 	url = git@github.com:jmaia-42-projects/ft_transcendance.git
+[submodule "libasm"]
+	path = libasm
+	url = git@github.com:jmaia-42-projects/libasm.git
